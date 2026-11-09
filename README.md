@@ -11,7 +11,6 @@
   
 **Curso/turma:** BCC | 2 Semestre | Matutino
 **Prazo do edital:** 11 de novembro de 2026  
-**Apresentação:** aproximadamente 5 minutos.
 
 ## Entregáveis
 
