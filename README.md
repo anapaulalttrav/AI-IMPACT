@@ -10,6 +10,7 @@
 | Luiz Gustavo da Silveira | 2026103979 |
   
 **Curso/turma:** BCC | 2 Semestre | Matutino
+
 **Prazo do edital:** 11 de novembro de 2026  
 
 ## Entregáveis
