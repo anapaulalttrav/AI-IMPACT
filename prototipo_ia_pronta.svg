@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+<rect width="1440" height="900" fill="#F6F8FC"/>
+<rect x="38" y="28" width="1364" height="840" rx="26" fill="#FFFFFF" stroke="#E2E9F0" stroke-width="2"/>
+<rect x="38" y="28" width="1364" height="86" rx="26" fill="#0B1730" stroke="none" stroke-width="1"/>
+<text x="85" y="84" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="750" fill="#FFFFFF" text-anchor="start">●  IA PRONTA</text>
+<text x="1360" y="80" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="650" fill="#9CD8D7" text-anchor="end">PROTÓTIPO CONCEITUAL • DADOS SIMULADOS</text>
+<text x="90" y="167" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="750" fill="#19243A" text-anchor="start">Diagnóstico inteligente</text>
+<text x="90" y="209" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#5C6C83" text-anchor="start">Empresa demonstração · Pequeno varejo · Dados fictícios</text>
+<rect x="90" y="242" width="380" height="162" rx="18" fill="#F8FAFD" stroke="#E0E8F0" stroke-width="2"/>
+<text x="116" y="284" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="550" fill="#5C6C83" text-anchor="start">Prontidão dos dados</text>
+<text x="116" y="344" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="800" fill="#22A0A6" text-anchor="start">74 / 100</text>
+<text x="116" y="381" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="420" fill="#5C6C83" text-anchor="start">Boa, com ajustes</text>
+<rect x="530" y="242" width="380" height="162" rx="18" fill="#F8FAFD" stroke="#E0E8F0" stroke-width="2"/>
+<text x="556" y="284" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="550" fill="#5C6C83" text-anchor="start">Oportunidades</text>
+<text x="556" y="344" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="800" fill="#7B64D8" text-anchor="start">3</text>
+<text x="556" y="381" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="420" fill="#5C6C83" text-anchor="start">2 exigem revisão humana</text>
+<rect x="970" y="242" width="380" height="162" rx="18" fill="#F8FAFD" stroke="#E0E8F0" stroke-width="2"/>
+<text x="996" y="284" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="550" fill="#5C6C83" text-anchor="start">Economia potencial</text>
+<text x="996" y="344" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="800" fill="#E69F50" text-anchor="start">20 h/mês</text>
+<text x="996" y="381" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="420" fill="#5C6C83" text-anchor="start">Premissa a validar</text>
+<rect x="90" y="439" width="840" height="341" rx="18" fill="#F7FAFD" stroke="#DCE6F0" stroke-width="2"/>
+<text x="123" y="489" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" fill="#19243A" text-anchor="start">Oportunidades recomendadas</text>
+<rect x="117" y="505" width="785" height="58" rx="10" fill="#FFFFFF" stroke="#E5EDF3" stroke-width="1"/>
+<text x="136" y="539" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="600" fill="#19243A" text-anchor="start">1. Automatizar relatórios de vendas</text>
+<text x="704" y="539" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#5C6C83" text-anchor="start">Alto impacto</text>
+<text x="875" y="539" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="650" fill="#16BDB2" text-anchor="end">Prioridade 01</text>
+<rect x="117" y="579" width="785" height="58" rx="10" fill="#FFFFFF" stroke="#E5EDF3" stroke-width="1"/>
+<text x="136" y="613" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="600" fill="#19243A" text-anchor="start">2. Classificar solicitações internas</text>
+<text x="704" y="613" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#5C6C83" text-anchor="start">Médio impacto</text>
+<text x="875" y="613" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="650" fill="#16BDB2" text-anchor="end">Prioridade 02</text>
+<rect x="117" y="653" width="785" height="58" rx="10" fill="#FFFFFF" stroke="#E5EDF3" stroke-width="1"/>
+<text x="136" y="687" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="600" fill="#19243A" text-anchor="start">3. Gerar respostas a clientes</text>
+<text x="704" y="687" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#5C6C83" text-anchor="start">Revisão reforçada</text>
+<text x="875" y="687" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="650" fill="#16BDB2" text-anchor="end">Risco maior</text>
+<rect x="958" y="439" width="397" height="341" rx="18" fill="#F7FAFD" stroke="#DCE6F0" stroke-width="2"/>
+<text x="990" y="488" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" fill="#19243A" text-anchor="start">Simulador de ROI</text>
+<text x="992" y="534" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="450" fill="#5C6C83" text-anchor="start">20 h × R$ 35/h</text>
+<text x="992" y="592" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="750" fill="#19243A" text-anchor="start">R$ 700 / mês</text>
+<text x="992" y="628" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#5C6C83" text-anchor="start">benefício estimado, não garantido</text>
+<rect x="993" y="670" width="323" height="60" rx="13" fill="#16BDB2" stroke="none" stroke-width="1"/>
+<text x="1155" y="709" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="750" fill="#FFFFFF" text-anchor="middle">REVISAR COM GESTOR  →</text>
+<text x="88" y="814" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#5C6C83">Integrantes: Ana Paula Lopes Travassos — RA 2026108913  •  Rhuan Ryuji Yui Isozaki — RA 2026105656</text>
+<text x="88" y="840" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#5C6C83">Marcelo Martins Araujo Junior — RA 2026108269  •  Luiz Gustavo da Silveira — RA 2026103979</text>
+</svg>
