@@ -26,19 +26,10 @@ Documentos complementares: [`entrevistas_complementadas.md`](entrevistas_complem
 - **[E] Entrevista:** informação reproduzida das anotações do grupo, sem transcrição literal verificada.
 - **[P] Pesquisa:** informação localizada em fonte pública; URL e origem especificadas.
 - **[H] Hipótese:** inferência ou premissa ilustrativa do grupo; nunca tratar como resposta de entrevistado.
-- **[NI] Não informado:** o dado não foi registrado. Solicitar confirmação se necessário.
 - Custos e maturação dos seis casos **não são propostas comerciais**, mas classificações orientativas em termos relativos.
-- **Importante:** CEIA é centro de pesquisa; CPTM é operadora ferroviária; CapCut é produto. Validar com o professor o enquadramento no item do edital sobre estandes de fornecedores/consultorias.
 - O estudo da CPTM apresenta **600 horas manuais vs. 14 horas automatizadas** em relatórios de 87 elevadores, cerca de **42,9x mais rápido** (redução de 97,7%). O “46x” anotado na visita pode ter sido arredondamento ou outro experimento e não foi identificado nessa referência.
 - O investimento de **US$ 60 milhões** da Digibee é captação Série B de 2023, **não** custo de contratação de sua plataforma.
 
-## Como publicar no GitHub
-
-1. Substitua **todos** os campos `[NOME COMPLETO — RA]`, inclusive em slides e arquivos SVG, pelos nomes e RAs reais.
-2. Exporte a apresentação em PDF se o professor pedir um formato adicional (o arquivo principal PPTX é editável).
-3. Crie um repositório **público** no GitHub e envie os artefatos. Não inclua dados sensíveis das entrevistas sem autorização.
-4. Confira o acesso sem fazer login e **submeta a URL pública no LXP até 11/11/2026**.
-5. Prepare a fala para a apresentação obrigatória de cerca de 5 minutos.
 
 ## Fontes complementares
 
